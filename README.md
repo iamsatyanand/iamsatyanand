@@ -20,6 +20,23 @@
 
 ⚡ Fun Fact: I love walking and spiritual practices such as meditating and listening to slow, calm music. These activities help me stay balanced and focused in my daily life.
 
+## GitHub Stats
+![Satyanand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsatyanand&show_icons=true&theme=radical)
+
+## Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+![Serverless](https://img.shields.io/badge/-Serverless-333333?style=flat&logo=serverless)
+![REST API](https://img.shields.io/badge/-REST%20API-333333?style=flat&logo=api)
+
+## Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamsatyanand)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yourusername)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-05CC47?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/yourusername)
+
 
 <!---
 iamsatyanand/iamsatyanand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
