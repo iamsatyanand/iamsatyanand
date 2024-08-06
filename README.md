@@ -1,4 +1,8 @@
-👋 Hi there, I'm Satyanand Mishra
+@@ -0,0 +1,41 @@
+### Hi there, I'm Satyanand Mishra 👋 
+
+<br>
+<br>
 
 👀 I'm a passionate software developer with over 5 years of experience. My journey in tech has seen me work across multiple technologies and frameworks, including:
     Languages: Python, Java
