@@ -23,19 +23,48 @@
 ## GitHub Stats
 ![Satyanand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsatyanand&show_icons=true&theme=radical)
 
-## Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
-![Serverless](https://img.shields.io/badge/-Serverless-333333?style=flat&logo=serverless)
-![REST API](https://img.shields.io/badge/-REST%20API-333333?style=flat&logo=api)
+### Languages and Tools:
 
-## Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamsatyanand)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yourusername)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-05CC47?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/yourusername)
+<p align="left">  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p><a href="https://www.java.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/>
+</a>
+<a href="https://aws.amazon.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+</a>
+<a href="https://www.serverless.com" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg" alt="serverless" width="40" height="40"/>
+</a>
+<a href="https://aws.amazon.com/lambda/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/awslambda/awslambda-icon.svg" alt="lambda" width="40" height="40"/>
+</a>
+<a href="https://aws.amazon.com/api-gateway/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/amazon_apigateway/amazon_apigateway-icon.svg" alt="api gateway" width="40" height="40"/>
+</a>
+<a href="https://aws.amazon.com/vpc/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/amazon_vpc/amazon_vpc-icon.svg" alt="vpc" width="40" height="40"/>
+</a>
+
+
+---
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<!-- <a href="[https://twitter.com/chetanthakral3](https://x.com/Satyanand65)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chetanthakral3" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/iamsatyanand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chetan-thakral" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/26662400/iamsatyanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chetan-thakral" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/iamsatyanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chetan.thakral" height="30" width="40" /></a> -->
+<!-- <a href="https://www.codechef.com/users/iamsatyanand" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chetan_2002" height="30" width="40" /></a> -->
+<a href="https://www.hackerrank.com/profile/IamSatyanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chetanthakral325" height="30" width="40" /></a>
+<!-- <a href="https://codeforces.com/profile/iamsatyanand" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="chetan_2002" height="30" width="40" /></a> -->
+<a href="https://www.leetcode.com/iamsatyanand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chetan_2002" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/satyanand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chetanthakral325" height="30" width="40" /></a>
+</p>
 
 
 <!---
