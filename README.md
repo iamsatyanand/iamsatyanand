@@ -14,7 +14,7 @@
     API Development (RESTful Services)
     Feel free to suggest what we can work on together!
 
-📫 How to Reach Me: [![Gmail Badge](https://img.shields.io/badge/-iamsatyanandmishra@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:iamsatyanandmishra@gmail.com)](mailto:iamsatyanandmishra@gmail.com)
+📫 How to Reach Me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:iamsatyanandmishra@gmail.com)](mailto:iamsatyanandmishra@gmail.com)
 
 😄 He/Him
 
