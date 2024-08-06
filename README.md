@@ -47,13 +47,13 @@
   <img src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg" alt="serverless" width="40" height="40"/>
 </a>
 <a href="https://aws.amazon.com/lambda/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/awslambda/awslambda-icon.svg" alt="lambda" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" alt="lambda" width="40" height="40"/>
 </a>
 <a href="https://aws.amazon.com/api-gateway/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/amazon_apigateway/amazon_apigateway-icon.svg" alt="api gateway" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/AWS/svg/App-Integration/API-Gateway.svg" alt="api gateway" width="40" height="40"/>
 </a>
 <a href="https://aws.amazon.com/vpc/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/amazon_vpc/amazon_vpc-icon.svg" alt="vpc" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Virtual-Private-Cloud.svg" alt="vpc" width="40" height="40"/>
 </a>
 </p>
 
