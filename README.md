@@ -1,6 +1,6 @@
 ### Hi there, I'm Satyanand Mishra 👋 
 
-<p align="center"><img src="https://imgur.com/a/KHt8Nmz"></p>
+<p align="center"><img src="https://i.imgur.com/EBNMHdB.gif"></p>
 
 <br>
 <br>
