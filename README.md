@@ -1,4 +1,9 @@
-### Hi there, I'm Satyanand Mishra 👋 
+<h1 style="text-align: center; font-family: 'Comic Sans MS', 'Comic Sans', cursive, Arial, sans-serif; color: #2c3e50; margin-top: 20px;">
+  Hi there, I'm <span style="font-size: 2em; color: #e74c3c;">Satyanand Mishra</span> 👋
+</h1>
+
+
+
 
 <p align="center"><img src="https://i.imgur.com/EBNMHdB.gif" width="500" height="200"></p>
 
