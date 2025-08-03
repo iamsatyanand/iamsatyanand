@@ -41,13 +41,17 @@ I'm open to collaboration on exciting projects, especially those involving:
 Feel free to suggest what we can work on together!
 
 * 📧 **Email:** sonu.satyanand182@gmail.com
-* 🔗 **LinkedIn:** [Link to your LinkedIn Profile - *Crucial for recruiters!*]
-* 🔗 **GitHub:** [Link to your GitHub profile - self-reference is fine, or remove this line]
+* 🔗 **LinkedIn:** https://www.linkedin.com/in/iamsatyanand/
+
 
 ---
 
 ### ✨ Fun Fact
 
 I enjoy walking and spiritual practices such as meditating and listening to slow, calm music. These activities help me stay balanced and focused in my daily life.
+
+## GitHub Stats
+![Satyanand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsatyanand&show_icons=true&theme=radical)
+
 
 ---
